@@ -7,4 +7,4 @@ Launch:
 
 and then add:
 
-    */60 * * * * python /Users/sdporzio/Repositories/AutomaticChecks/check.py
+    */60 * * * * python /Users/sdporzio/Repositories/AutomaticWebScraping/check.py
